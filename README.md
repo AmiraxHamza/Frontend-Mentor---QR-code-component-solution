@@ -51,6 +51,7 @@ footer {
  position: absolute;
  bottom: 0;
 }
+```
 
 ### Continued development
 
