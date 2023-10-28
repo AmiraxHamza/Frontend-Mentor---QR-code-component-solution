@@ -30,8 +30,8 @@ I successfully finished my first Frontend Project! The QR Code component solutio
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-krjYg8fL5C#comment-653cb15dfa2e78a6399946d2
+- Live Site URL: https://amiraxhamza.github.io/Frontend-Mentor---QR-code-component-solution/
 
 ## My process
 I completed the html first and then proceeded to the CSS. Occasionally, I went back to the html to make changes or make additions where necessary.
